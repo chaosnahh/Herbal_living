@@ -1,0 +1,607 @@
+[
+  {
+    "id": "holy-basil-tulsi",
+    "name": "Holy Basil Tulsi",
+    "benefits": [
+      "Reduces stress",
+      "Supports immunity",
+      "Improves respiratory health"
+    ],
+    "nutrients": [
+      "Eugenol",
+      "Vitamin K",
+      "Iron"
+    ],
+    "recipe_use": [
+      "Steep 5-6 fresh or dried Tulsi leaves in hot water for 5-7 minutes.",
+      "Add honey or lemon to taste.",
+      "Drink as a daily tea to enhance immunity and reduce stress."
+    ],
+    "how to grow": [
+      "Choose a Spot: Tulsi needs at least 4-6 hours of direct sunlight daily.",
+      "Prepare the Soil: Use well-draining soil.",
+      "Planting: Plant seeds or a small sapling.",
+      "Watering: Water regularly, but don't overwater.",
+      "Pruning: Pinch off the top leaves and flower stalks regularly."
+    ]
+  },
+  {
+    "id": "neem",
+    "name": "Neem Azadirachta indica",
+    "benefits": [
+      "Purifies blood",
+      "Treats skin ailments like acne, eczema, and psoriasis",
+      "Supports dental hygiene",
+      "Acts as a natural insecticide"
+    ],
+    "nutrients": [
+      "Nimbin",
+      "Nimbidin",
+      "Quercetin"
+    ],
+    "recipe_use": [
+      "To create a skin paste, grind a handful of fresh neem leaves with a little water until it forms a thick paste.",
+      "Apply the paste directly to affected skin areas (acne, boils, rashes) and leave it on for 15-20 minutes.",
+      "Rinse off with cool water. Use this remedy 2-3 times a week for clear, healthy skin."
+    ],
+    "how to grow": [
+      "Get a Sapling: Neem trees grow best from saplings.",
+      "Choose a Location: Plant in a large container or in a spacious garden area with full sun.",
+      "Prepare the Soil: Neem prefers well-draining, slightly sandy soil.",
+      "Watering: Water well initially; it is very drought-tolerant once established.",
+      "Care: Neem trees are very hardy and low-maintenance."
+    ]
+  },
+  {
+    "id": "ginger",
+    "name": "Ginger Zingiber officinale",
+    "benefits": [
+      "Aids digestion and relieves nausea",
+      "Reduces inflammation",
+      "Soothes sore throat and cold symptoms",
+      "Relieves muscle pain"
+    ],
+    "nutrients": [
+      "Gingerol",
+      "Shogaol",
+      "Vitamin B6",
+      "Magnesium"
+    ],
+    "recipe_use": [
+      "Grate 1-2 inches of fresh ginger root.",
+      "Add the grated ginger to a cup of boiling water.",
+      "Let it steep for 5-10 minutes.",
+      "Strain the liquid, and add honey and lemon to taste."
+    ],
+    "how to grow": [
+      "Get a Rhizome: Buy a fresh ginger rhizome from a grocery store.",
+      "Cut the Rhizome: Cut the rhizome into 1-2 inch pieces, ensuring each piece has at least one eye.",
+      "Plant: Plant the pieces about 2-4 inches deep in a wide, shallow pot.",
+      "Water and Location: Keep the soil consistently moist and place the pot in a warm, shady spot.",
+      "Harvest: Ginger is ready for harvest in 8-10 months."
+    ]
+  },
+  {
+    "id": "turmeric",
+    "name": "Turmeric Curcuma longa",
+    "benefits": [
+      "Reduces inflammation",
+      "Powerful antioxidant",
+      "Supports brain health",
+      "Improves skin tone and texture"
+    ],
+    "nutrients": [
+      "Curcumin",
+      "Iron",
+      "Manganese"
+    ],
+    "recipe_use": [
+      "To make Golden Milk (Haldi Doodh), warm one cup of milk.",
+      "Add 1 teaspoon of turmeric powder, a pinch of black pepper, and a pinch of cinnamon or ginger powder.",
+      "Stir well and heat until warm, but not boiling.",
+      "Sweeten with honey or jaggery to taste."
+    ],
+    "how to grow": [
+      "Get a Rhizome: Purchase fresh turmeric rhizomes.",
+      "Plant: Cut the rhizome into pieces, each with a bud, and plant them 2-3 inches deep.",
+      "Location and Watering: Place the pot in a warm, humid spot with partial shade and keep the soil moist.",
+      "Care: Provide a balanced fertilizer every month during the growing season.",
+      "Harvest: Turmeric is ready to harvest after 8-10 months."
+    ]
+  },
+  {
+    "id": "aloe-vera",
+    "name": "Aloe Vera",
+    "benefits": [
+      "Soothes burns, cuts, and skin irritations",
+      "Aids digestion and detoxification",
+      "Moisturizes and nourishes skin and hair"
+    ],
+    "nutrients": [
+      "Polysaccharides",
+      "Vitamins A, C, and E",
+      "Amino acids"
+    ],
+    "recipe_use": [
+      "Cut a mature, lower leaf from the plant.",
+      "Carefully slice the leaf open and scoop out the clear gel with a spoon.",
+      "Apply the gel directly to a burn, cut, or sunburn for immediate relief."
+    ],
+    "how to grow": [
+      "Get a Pup: Aloe Vera is best grown from a pup (a small offset).",
+      "Use the Right Soil: Plant in a pot with a cactus potting mix or sandy, well-draining soil.",
+      "Location: Place the pot in a sunny spot with bright, indirect sunlight.",
+      "Watering: Water thoroughly but infrequently, allowing the soil to dry out completely between waterings."
+    ]
+  },
+  {
+    "id": "mint",
+    "name": "Mint Pudina",
+    "benefits": [
+      "Aids digestion and relieves indigestion",
+      "Soothes headaches and nausea",
+      "Freshens breath"
+    ],
+    "nutrients": [
+      "Menthol",
+      "Vitamin A",
+      "Iron",
+      "Manganese"
+    ],
+    "recipe_use": [
+      "In a blender, combine a bunch of fresh mint leaves with a small piece of ginger, a green chili, and a tablespoon of lemon juice.",
+      "Add a pinch of black salt (kala namak) and blend with a little water until it forms a smooth chutney.",
+      "Serve as a condiment with snacks, or mix a spoonful into a glass of water for a refreshing and digestive drink."
+    ],
+    "how to grow": [
+      "Choose a Container: Grow mint in a pot to contain its spread.",
+      "Plant from Cuttings: Mint is very easy to grow from cuttings.",
+      "Use Rich Soil: Once rooted, plant in a pot with rich, moist potting soil.",
+      "Location and Watering: Keep the plant in a spot with partial shade and water regularly."
+    ]
+  },
+  {
+    "id": "coriander",
+    "name": "Coriander Dhania",
+    "benefits": [
+      "Aids digestion and helps with bloating",
+      "Rich in antioxidants",
+      "Supports heart health"
+    ],
+    "nutrients": [
+      "Vitamin K",
+      "Vitamin A",
+      "Vitamin C",
+      "Iron"
+    ],
+    "recipe_use": [
+      "Wash and finely chop a handful of fresh coriander leaves.",
+      "Sprinkle generously over cooked dishes like curries, dals, and sabzis just before serving.",
+      "To make a refreshing drink, blend coriander leaves with water, lemon juice, a pinch of salt, and a little sugar to taste."
+    ],
+    "how to grow": [
+      "Prepare Seeds: Lightly crush coriander seeds to split them in half.",
+      "Sow the Seeds: Scatter the seeds evenly in a shallow pot or garden bed.",
+      "Location and Watering: Place in a cool, semi-shady spot and keep the soil moist.",
+      "Harvest: Snip off leaves as needed, starting from the outside of the plant."
+    ]
+  },
+  {
+    "id": "curry-leaves",
+    "name": "Curry Leaves Kadi Patta",
+    "benefits": [
+      "Supports hair health and prevents premature greying",
+      "Aids digestion and helps manage blood sugar levels",
+      "Rich in antioxidants and anti-inflammatory compounds"
+    ],
+    "nutrients": [
+      "Vitamins A, B, C, and E",
+      "Iron",
+      "Calcium"
+    ],
+    "recipe_use": [
+      "In a small pan, heat a teaspoon of oil or ghee.",
+      "Add a few mustard seeds and let them splutter.",
+      "Add 5-6 fresh curry leaves to the hot oil and fry for a few seconds until they are crispy and fragrant."
+    ],
+    "how to grow": [
+      "Buy a Sapling: The easiest way to grow a curry leaf plant is to buy a small sapling.",
+      "Choose a Pot: Plant in a pot with good drainage and rich, loamy soil.",
+      "Location: Place the pot in a sunny spot (at least 6 hours of direct sun).",
+      "Watering and Care: Water regularly and prune to encourage bushy growth."
+    ]
+  },
+  {
+    "id": "fenugreek",
+    "name": "Fenugreek Methi",
+    "benefits": [
+      "Aids digestion and helps with constipation",
+      "May help in regulating blood sugar levels",
+      "Supports lactation in nursing mothers"
+    ],
+    "nutrients": [
+      "Iron",
+      "Magnesium",
+      "Manganese",
+      "Fiber",
+      "Protein"
+    ],
+    "recipe_use": [
+      "To use the leaves, wash and chop them. Cook with potatoes or other vegetables.",
+      "To use the seeds, lightly roast a teaspoon of seeds and add to curries or dals.",
+      "Soak a teaspoon of fenugreek seeds in water overnight and drink the water in the morning."
+    ],
+    "how to grow": [
+      "Prepare Seeds: Use fenugreek seeds from your kitchen, soaked overnight.",
+      "Sow the Seeds: Scatter the soaked seeds on a tray or shallow pot filled with potting soil.",
+      "Watering and Location: Keep the soil moist. Fenugreek grows quickly and doesn't need a lot of sun.",
+      "Harvest: Harvest the leaves when they are about 4-6 inches tall."
+    ]
+  },
+  {
+    "id": "ashwagandha",
+    "name": "Ashwagandha Withania somnifera",
+    "benefits": [
+      "Reduces stress and anxiety",
+      "Boosts immunity",
+      "Improves vitality and energy levels"
+    ],
+    "nutrients": [
+      "Withanolides",
+      "alkaloids",
+      "amino acids"
+    ],
+    "recipe_use": [
+      "Mix a half to one teaspoon of Ashwagandha root powder into a glass of warm milk.",
+      "Add a little honey or jaggery to sweeten if desired.",
+      "Drink this Ashwagandha milk before bed to promote restful sleep and reduce stress."
+    ],
+    "how to grow": [
+      "Get Seeds: Buy Ashwagandha seeds from a reliable supplier.",
+      "Prepare Soil: Use well-draining, sandy soil.",
+      "Planting: Sow seeds about 1 cm deep in a pot or garden bed.",
+      "Location and Watering: Ashwagandha thrives in dry, sunny conditions. Water sparingly once established."
+    ]
+  },
+  {
+    "id": "brahmi",
+    "name": "Brahmi Bacopa monnieri",
+    "benefits": [
+      "Enhances memory and cognitive function",
+      "Reduces stress and anxiety",
+      "Acts as a nervine tonic"
+    ],
+    "nutrients": [
+      "Bacosides",
+      "Alkaloids"
+    ],
+    "recipe_use": [
+      "Take 1_2 to 1 teaspoon of Brahmi powder.",
+      "Mix it with a little honey or ghee.",
+      "Consume it daily in the morning on an empty stomach to improve mental clarity."
+    ],
+    "how to grow": [
+      "Get Cuttings: Brahmi is easily propagated from cuttings.",
+      "Use Wet Soil: Plant the cuttings in a pot with a mix of soil and compost.",
+      "Location: Place the pot in a spot that receives partial sunlight and has high humidity.",
+      "Care: Keep the soil wet."
+    ]
+  },
+  {
+    "id": "amla",
+    "name": "Amla Indian Gooseberry",
+    "benefits": [
+      "Boosts immunity due to high Vitamin C content",
+      "Aids digestion and prevents constipation",
+      "Promotes healthy hair and skin"
+    ],
+    "nutrients": [
+      "Vitamin C",
+      "Polyphenols",
+      "Antioxidants"
+    ],
+    "recipe_use": [
+      "Grate fresh Amla and squeeze out the juice.",
+      "Mix 1-2 teaspoons of Amla juice with an equal amount of honey.",
+      "Drink this concoction every morning on an empty stomach to boost your immune system."
+    ],
+    "how to grow": [
+      "Plant a Sapling: Amla is a tree, so it is best to plant a sapling.",
+      "Choose a Location: Plant in a spot with full sun.",
+      "Soil: Amla is hardy and can grow in various soil types, but it prefers well-draining soil.",
+      "Watering: Water regularly during the initial stages."
+    ]
+  },
+  {
+    "id": "giloy",
+    "name": "Giloy Tinospora cordifolia",
+    "benefits": [
+      "Boosts immunity",
+      "Reduces fever and inflammation",
+      "Helps manage blood sugar levels"
+    ],
+    "nutrients": [
+      "Alkaloids",
+      "Terpenoids",
+      "Glycosides"
+    ],
+    "recipe_use": [
+      "To make Giloy juice, cut a fresh Giloy stem about 1-2 inches into small pieces.",
+      "Grind the pieces in a mortar and pestle or a blender with a little water.",
+      "Strain the mixture and drink the juice on an empty stomach to boost immunity."
+    ],
+    "how to grow": [
+      "Get a Stem Cutting: Giloy is easily grown from a stem cutting.",
+      "Plant: Plant the cutting in a pot with well-draining soil.",
+      "Location: Place the pot in a spot that receives partial sunlight. Giloy needs a support to climb.",
+      "Watering: Keep the soil moist."
+    ]
+  },
+  {
+    "id": "lemongrass",
+    "name": "Lemongrass Cymbopogon",
+    "benefits": [
+      "Aids digestion and relieves stomach cramps",
+      "Has a calming effect and helps reduce anxiety",
+      "Acts as a natural diuretic and detoxifier"
+    ],
+    "nutrients": [
+      "Citral",
+      "Myrcene",
+      "Vitamins A and C",
+      "Iron"
+    ],
+    "recipe_use": [
+      "Cut a 2-3 inch piece of the lemongrass stalk.",
+      "Bruise the stalk with the back of a knife to release its aroma.",
+      "Add the stalk to a pot of boiling water and steep for 5-10 minutes to make a refreshing tea."
+    ],
+    "how to grow": [
+      "Get a Stalk: Buy a fresh lemongrass stalk from a grocery store.",
+      "Root in Water: Place the stalk in a glass of water, ensuring the bottom is submerged.",
+      "Plant: Once rooted, plant in a pot with well-draining soil.",
+      "Location and Watering: Lemongrass loves full sun. Water regularly to keep the soil moist."
+    ]
+  },
+  {
+    "id": "peppermint",
+    "name": "Peppermint Mentha x piperita",
+    "benefits": [
+      "Soothes digestive issues and relieves gas",
+      "Alleviates headaches and migraines",
+      "Has a decongestant effect for colds"
+    ],
+    "nutrients": [
+      "Menthol",
+      "Menthone",
+      "Vitamin A",
+      "Iron"
+    ],
+    "recipe_use": [
+      "Steep a few fresh or dried peppermint leaves in hot water for 5-7 minutes.",
+      "Strain the tea and drink it to aid digestion or relieve a headache.",
+      "Crush a few leaves and add to cold water with lemon and ice for a refreshing drink."
+    ],
+    "how to grow": [
+      "Use Cuttings: Peppermint is easily grown from cuttings or by dividing an existing plant.",
+      "Soil and Location: Plant in rich, moist soil. It thrives in partial shade.",
+      "Watering: Keep the soil consistently moist."
+    ]
+  },
+  {
+    "id": "ajwain",
+    "name": "Ajwain Carom",
+    "benefits": [
+      "Alleviates gas, indigestion, and bloating",
+      "Provides relief for cough and cold symptoms",
+      "Possesses antiseptic and anti-inflammatory properties"
+    ],
+    "nutrients": [
+      "Thymol",
+      "Protein",
+      "Fiber"
+    ],
+    "recipe_use": [
+      "To relieve indigestion, crush a half teaspoon of Ajwain seeds and chew them slowly with a pinch of black salt.",
+      "For a remedy for cough and cold, boil a teaspoon of Ajwain seeds in a glass of water. Strain and drink the warm liquid."
+    ],
+    "how to grow": [
+      "Buy Seeds: You can use Ajwain seeds from your kitchen pantry.",
+      "Sow: Sow the seeds in a pot with well-draining soil.",
+      "Location: Place the pot in a sunny spot (at least 4-5 hours of direct sunlight).",
+      "Watering: Water regularly, but allow the topsoil to dry out before watering again."
+    ]
+  },
+  {
+    "id": "black-pepper",
+    "name": "Black Pepper Kali Mirch",
+    "benefits": [
+      "Aids digestion and nutrient absorption",
+      "Has antioxidant and anti-inflammatory properties",
+      "Helps in relieving cold and cough symptoms"
+    ],
+    "nutrients": [
+      "Piperine",
+      "Vitamins A and C",
+      "Calcium",
+      "Iron"
+    ],
+    "recipe_use": [
+      "To make a home remedy for cold, crush 5-6 peppercorns.",
+      "Boil the crushed peppercorns in water with a few Tulsi leaves, ginger, and honey.",
+      "Drink this hot concoction to soothe a sore throat and clear a blocked nose."
+    ],
+    "how to grow": [
+      "Get a Vine Cutting: Black pepper is a vine and is best grown from cuttings.",
+      "Prepare a Spot: It needs a support structure to climb, like a trellis or a small tree.",
+      "Location and Watering: Black pepper needs a warm, humid climate and partial shade. Water regularly."
+    ]
+  },
+  {
+    "id": "bay-leaf",
+    "name": "Bay Leaf Tej Patta",
+    "benefits": [
+      "Aids digestion",
+      "Has anti-inflammatory properties",
+      "May help in managing blood sugar levels"
+    ],
+    "nutrients": [
+      "Vitamins A and C",
+      "Iron",
+      "Calcium"
+    ],
+    "recipe_use": [
+      "Add 1-2 bay leaves to a pot of rice, curry, or biryani while cooking.",
+      "Once the dish is cooked, remove the leaves before serving.",
+      "To make a digestive tea, steep 1 bay leaf in hot water for 10 minutes."
+    ],
+    "how to grow": [
+      "Buy a Sapling: The easiest way to grow a bay leaf plant is to buy a sapling.",
+      "Choose a Pot: Plant in a pot with rich, well-draining soil.",
+      "Location and Care: Bay trees like full sun. Water regularly, but don't overwater."
+    ]
+  },
+  {
+    "id": "gotu-kola",
+    "name": "Gotu Kola Brahmi Centella asiatica",
+    "benefits": [
+      "Enhances memory and mental clarity",
+      "Promotes wound healing and skin health",
+      "Reduces anxiety and stress"
+    ],
+    "nutrients": [
+      "Triterpenoids",
+      "Saponins"
+    ],
+    "recipe_use": [
+      "Crush a handful of fresh Gotu Kola leaves.",
+      "Mix the crushed leaves with a little honey and consume daily to improve memory and reduce stress.",
+      "The leaves can also be added to salads or a smoothie."
+    ],
+    "how to grow": [
+      "Get a Plant or Cuttings: Gotu Kola spreads easily from its runners.",
+      "Use Wet Soil: Plant in a pot with rich, consistently moist soil.",
+      "Location: Place in a spot with partial shade and high humidity."
+    ]
+  },
+  {
+    "id": "shatavari",
+    "name": "Shatavari Asparagus racemosus",
+    "benefits": [
+      "Supports the female reproductive system",
+      "Reduces stress and anxiety",
+      "Enhances lactation in nursing mothers"
+    ],
+    "nutrients": [
+      "Shatavarin",
+      "Asparagosides"
+    ],
+    "recipe_use": [
+      "Mix a half to one teaspoon of Shatavari root powder in a glass of warm milk.",
+      "Stir well and drink before bed or in the morning.",
+      "It can also be mixed with honey or ghee."
+    ],
+    "how to grow": [
+      "Get a Rhizome: Shatavari is best grown from its root rhizome.",
+      "Plant: Plant the rhizome in a pot with well-draining, sandy soil.",
+      "Location and Care: Shatavari needs full sun. It is a climbing plant, so provide a trellis or support."
+    ]
+  },
+  {
+    "id": "moringa",
+    "name": "Moringa Drumstick Tree",
+    "benefits": [
+      "Highly nutritious, rich in vitamins, minerals, and amino acids",
+      "Has anti-inflammatory and antioxidant properties",
+      "Supports bone health"
+    ],
+    "nutrients": [
+      "Vitamin A",
+      "Vitamin C",
+      "Calcium",
+      "Potassium",
+      "Iron",
+      "Protein"
+    ],
+    "recipe_use": [
+      "Use fresh moringa leaves in vegetable stir-fries, curries, or dals.",
+      "To make a nutritional supplement, dry the leaves and grind them into a fine powder.",
+      "Add a teaspoon of moringa powder to smoothies, soups, or sprinkle it on salads."
+    ],
+    "how to grow": [
+      "Get Seeds or a Sapling: Moringa can be grown from seeds or a sapling.",
+      "Plant: Plant seeds directly in a large pot or a sunny spot in the garden.",
+      "Location and Watering: Moringa thrives in full sun and is very drought-tolerant once established.",
+      "Care: It grows very fast and can be pruned to keep it at a manageable height."
+    ]
+  },
+  {
+    "id": "eclipta-alba",
+    "name": "Eclipta alba Bhringraj",
+    "benefits": [
+      "Promotes hair growth and prevents hair loss",
+      "Prevents premature greying",
+      "Soothes scalp irritation and dandruff"
+    ],
+    "nutrients": [
+      "Flavonoids",
+      "Alkaloids"
+    ],
+    "recipe_use": [
+      "Grind a handful of fresh Bhringraj leaves into a paste.",
+      "Mix the paste with a carrier oil like coconut or sesame oil.",
+      "Massage the oil into your scalp and hair. Leave it on for at least an hour or overnight before washing."
+    ],
+    "how to grow": [
+      "Get Cuttings or Seeds: Bhringraj is easily grown from cuttings.",
+      "Plant in Moist Soil: Plant in a pot with rich, consistently moist soil.",
+      "Location: Place in a spot that receives partial sunlight."
+    ]
+  },
+  {
+    "id": "aromatic-ginger",
+    "name": "Aromatic Ginger Kachur",
+    "benefits": [
+      "Aids digestion",
+      "Has anti-inflammatory and pain-relieving properties",
+      "Used in traditional remedies for cold and cough"
+    ],
+    "nutrients": [
+      "Essential oils",
+      "Flavonoids"
+    ],
+    "recipe_use": [
+      "To make a remedy for cold, grate a small piece of fresh Aromatic Ginger root.",
+      "Boil it in water with a little honey and drink warm."
+    ],
+    "how to grow": [
+      "Get a Rhizome: Plant a piece of the Aromatic Ginger rhizome with a bud.",
+      "Plant: Plant in a pot with well-draining, rich soil.",
+      "Location and Watering: It thrives in partial shade and a humid environment. Keep the soil moist."
+    ]
+  },
+  {
+    "id": "stevia",
+    "name": "Stevia Madhukari",
+    "benefits": [
+      "Natural, zero-calorie sweetener",
+      "Does not affect blood sugar levels",
+      "May help in managing blood pressure"
+    ],
+    "nutrients": [
+      "Stevioside",
+      "Rebaudioside"
+    ],
+    "recipe_use": [
+      "Take 1-2 fresh Stevia leaves.",
+      "Crush the leaves and add them to your tea, coffee, or a glass of lemon water to sweeten it naturally.",
+      "Dried and powdered leaves can also be used."
+    ],
+    "how to grow": [
+      "Get a Sapling: Stevia is best grown from a sapling.",
+      "Plant: Plant in a pot with well-draining, slightly sandy soil.",
+      "Location and Watering: Stevia loves full sun. Water regularly, but avoid overwatering."
+    ]
+  }
+]
+
